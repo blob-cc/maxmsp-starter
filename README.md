@@ -9,4 +9,24 @@
 
 Max/MSP is a visual programming language used for creating interactive music, visuals, and multimedia works. Max's patching environment allows you to build projects by connecting objects with virtual cables. MSP, which stands for Max Signal Processing, adds audio processing capabilities to Max, making it perfect for interactive sound installations and performances.
 
-https://cycling74.com/products/max
+- https://cycling74.com/products/max
+
+
+
+---
+
+## Colophon
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+Swing is developed by [Scape Agency](https://www.scape.agency). For any inquiries or support, please contact us at [info@scape.agency](info@scape.agency).
+
+---
